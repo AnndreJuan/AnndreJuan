@@ -17,7 +17,7 @@
 </div>
 <br/>
 
-Técnico em Automação industrial e estudando de análise e desenvolvimento de sistemas.<br/>
+Técnico em Automação industrial e estudante de análise e desenvolvimento de sistemas.<br/>
 Meu entusiasmo pela tecnologia e desenvolvimento de novas ferramentas para análise, economia de tempo e melhoria dos processos internos da corporação é evidente. Acredito que o conhecimento liberta e abre novos horizontes não explorados.
  
 
