@@ -14,7 +14,6 @@ Sou Técnico em Automação Industrial e estudante de Análise e Desenvolvimento
 
 #### Backend Developer
 <div style="display: inline-block;"><br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
@@ -29,15 +28,15 @@ Sou Técnico em Automação Industrial e estudante de Análise e Desenvolvimento
 
 #### RPA & Automação
 <div style="display: inline-block;"><br/>
-  <img align="center" alt="UiPath" src="https://img.shields.io/badge/UiPath-2177B0?style=for-the-badge&logo=uipath&logoColor=white"/>
-  <img align="center" alt="Automation Anywhere" src="https://img.shields.io/badge/Automation_Away-FF4500?style=for-the-badge&logo=automation-anywhere&logoColor=white"/>
-  <img align="center" alt="Blue Prism" src="https://img.shields.io/badge/Blue%20Prism-00599C?style=for-the-badge&logo=blueprism&logoColor=white"/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 #### Análise de Dados
 <div style="display: inline-block;"><br/>
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img align="center" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img align="center" alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </div>
